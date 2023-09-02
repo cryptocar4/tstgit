@@ -1,0 +1,2 @@
+# tstgit
+for testnet celestia
