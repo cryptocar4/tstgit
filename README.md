@@ -45,9 +45,6 @@ CELESTIA_NODENAME="MY_NODE"
 CELESTIA_WALLET="MY_WALLET"
 CELESTIA_CHAIN="mamaki"
 
-اطلاعات  داخل "" رر بدید
-به عنوان مثال :
-
 CELESTIA_NODENAME="amir" 
 CELESTIA_WALLET="amir8372"
 CELESTIA_CHAIN="mamaki"
